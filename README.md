@@ -1,1 +1,2 @@
-Readme de Exemplo
+lembrei do comando: git commit
+
